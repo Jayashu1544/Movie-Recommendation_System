@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Recommendation System
 
 This is a mini project for a movie recommendation system with a good UI and frontend.
@@ -23,3 +24,6 @@ This is a mini project for a movie recommendation system with a good UI and fron
 4. Replace `your_tmdb_api_key` in `app.py` with your actual API key
 5. Run the application: `python app.py`
 6. Open `http://127.0.0.1:5000/` in your browser
+=======
+# Movie-Recommendation_System
+>>>>>>> 7adebd26ee5df86f297f307a69d804eebc8017e0
